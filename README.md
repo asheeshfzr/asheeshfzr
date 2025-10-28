@@ -10,10 +10,6 @@ I design and build **intelligent, production-grade AI systems** that solve **rea
 
 ## 🌟 Featured Projects
 
-Excellent — you want your **Intent Agent** project section to really showcase its technical sophistication and use of the **latest frameworks in Agentic AI, GenAI, and orchestration**.
-
-Here’s an **enhanced and modernized version** of that section, rewritten for your GitHub README — polished for technical credibility and visual appeal:
-
 ---
 
 ### 🧠 Intent Agent — Agentic AI Intent Orchestration System
